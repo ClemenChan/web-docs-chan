@@ -4,5 +4,5 @@
 
 - 持续更新中！！！
 
-[GitHub](https://clemenchan.github.io/web-docs-chan/#/)
+[GitHub](https://github.com/ClemenChan/web-docs-chan.git)
 [Get Started](#前端基础与技术交叉)
