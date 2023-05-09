@@ -4,5 +4,5 @@
 
 - 持续更新中！！！
 
-[Gitee](https://github.com/docsifyjs/docsify/)
+[GitHub](https://clemenchan.github.io/web-docs-chan/#/)
 [Get Started](#前端基础与技术交叉)
